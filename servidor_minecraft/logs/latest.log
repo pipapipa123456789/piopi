@@ -107,3 +107,7 @@
 [28Jun2025 21:38:41.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPapu1024 joined the game
 [28Jun2025 21:38:57.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrPapu1024 lost connection: Disconnected
 [28Jun2025 21:38:57.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPapu1024 left the game
+[28Jun2025 21:48:05.139] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MrPapu1024[/100.122.156.80:57412] logged in with entity id 688 at (-24.26790074156509, 65.0, 31.96462858565796)
+[28Jun2025 21:48:05.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPapu1024 joined the game
+[28Jun2025 21:48:09.590] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MrPapu1024 lost connection: Disconnected
+[28Jun2025 21:48:09.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MrPapu1024 left the game
